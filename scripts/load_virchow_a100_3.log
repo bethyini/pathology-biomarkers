@@ -1,0 +1,70 @@
+2025-05-07 23:01:20,403 - INFO - Loading pretrained weights from Hugging Face hub (paige-ai/Virchow2)
+2025-05-07 23:01:20,460 - INFO - [paige-ai/Virchow2] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-05-07 23:02:48,491 - INFO - ✅ Saved 6357 embeddings to virchow_features/TCGA-EI-6882.h5
+2025-05-07 23:04:24,333 - INFO - ✅ Saved 7098 embeddings to virchow_features/TCGA-EI-6883.h5
+2025-05-07 23:05:45,210 - INFO - ✅ Saved 5964 embeddings to virchow_features/TCGA-EI-6884.h5
+2025-05-07 23:07:04,892 - INFO - ✅ Saved 5852 embeddings to virchow_features/TCGA-EI-6885.h5
+2025-05-07 23:08:31,661 - INFO - ✅ Saved 6357 embeddings to virchow_features/TCGA-EI-6917.h5
+2025-05-07 23:09:30,478 - INFO - ✅ Saved 4284 embeddings to virchow_features/TCGA-EI-7002.h5
+2025-05-07 23:10:34,538 - INFO - ✅ Saved 4725 embeddings to virchow_features/TCGA-EI-7004.h5
+2025-05-07 23:12:51,509 - INFO - ✅ Saved 10170 embeddings to virchow_features/TCGA-F4-6459.h5
+2025-05-07 23:14:27,829 - INFO - ✅ Saved 7102 embeddings to virchow_features/TCGA-F4-6460.h5
+2025-05-07 23:16:51,817 - INFO - ✅ Saved 10701 embeddings to virchow_features/TCGA-F4-6461.h5
+2025-05-07 23:17:39,129 - INFO - ✅ Saved 3402 embeddings to virchow_features/TCGA-F4-6463.h5
+2025-05-07 23:18:48,903 - INFO - ✅ Saved 5124 embeddings to virchow_features/TCGA-F4-6569.h5
+2025-05-07 23:20:21,672 - INFO - ✅ Saved 6816 embeddings to virchow_features/TCGA-F4-6570.h5
+2025-05-07 23:24:31,213 - INFO - ✅ Saved 18715 embeddings to virchow_features/TCGA-F4-6703.h5
+2025-05-07 23:25:35,277 - INFO - ✅ Saved 4650 embeddings to virchow_features/TCGA-F4-6704.h5
+2025-05-07 23:27:02,539 - INFO - ✅ Saved 6426 embeddings to virchow_features/TCGA-F4-6805.h5
+2025-05-07 23:28:57,729 - INFO - ✅ Saved 8550 embeddings to virchow_features/TCGA-F4-6806.h5
+2025-05-07 23:31:31,889 - INFO - ✅ Saved 11495 embeddings to virchow_features/TCGA-F4-6807.h5
+2025-05-07 23:34:10,985 - INFO - ✅ Saved 11844 embeddings to virchow_features/TCGA-F4-6808.h5
+2025-05-07 23:36:08,206 - INFO - ✅ Saved 8712 embeddings to virchow_features/TCGA-F4-6809.h5
+2025-05-07 23:37:17,320 - INFO - ✅ Saved 5076 embeddings to virchow_features/TCGA-F4-6854.h5
+2025-05-07 23:38:02,155 - INFO - ✅ Saved 3240 embeddings to virchow_features/TCGA-F4-6855.h5
+2025-05-07 23:39:55,775 - INFO - ✅ Saved 8439 embeddings to virchow_features/TCGA-F4-6856.h5
+2025-05-07 23:41:50,872 - INFO - ✅ Saved 8541 embeddings to virchow_features/TCGA-F5-6464.h5
+2025-05-07 23:43:03,894 - INFO - ✅ Saved 5325 embeddings to virchow_features/TCGA-F5-6465.h5
+2025-05-07 23:45:14,188 - INFO - ✅ Saved 9711 embeddings to virchow_features/TCGA-F5-6571.h5
+2025-05-07 23:48:07,394 - INFO - ✅ Saved 12927 embeddings to virchow_features/TCGA-F5-6702.h5
+2025-05-07 23:51:18,095 - INFO - ✅ Saved 14345 embeddings to virchow_features/TCGA-F5-6810.h5
+2025-05-07 23:51:53,039 - INFO - ✅ Saved 2475 embeddings to virchow_features/TCGA-F5-6811.h5
+2025-05-07 23:54:02,369 - INFO - ✅ Saved 9656 embeddings to virchow_features/TCGA-F5-6812.h5
+2025-05-07 23:56:13,503 - INFO - ✅ Saved 9711 embeddings to virchow_features/TCGA-F5-6813.h5
+2025-05-07 23:57:48,925 - INFO - ✅ Saved 7052 embeddings to virchow_features/TCGA-F5-6814.h5
+2025-05-07 23:57:50,164 - INFO - ❌ Failed to process TCGA-F5-6861: Caught ValueError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "/home/ezh/.conda/envs/clam_latest/lib/python3.10/site-packages/torch/utils/data/_utils/worker.py", line 349, in _worker_loop
+    data = fetcher.fetch(index)  # type: ignore[possibly-undefined]
+  File "/home/ezh/.conda/envs/clam_latest/lib/python3.10/site-packages/torch/utils/data/_utils/fetch.py", line 52, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/ezh/.conda/envs/clam_latest/lib/python3.10/site-packages/torch/utils/data/_utils/fetch.py", line 52, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/orcd/data/edboyden/002/ezh/uni/load_virchow-a100-2.py", line 58, in __getitem__
+    img = Image.open(self.paths[idx]).convert("RGB")
+  File "/home/ezh/.conda/envs/clam_latest/lib/python3.10/site-packages/PIL/Image.py", line 3551, in open
+    im = _open_core(fp, filename, prefix, formats)
+  File "/home/ezh/.conda/envs/clam_latest/lib/python3.10/site-packages/PIL/Image.py", line 3539, in _open_core
+    im = factory(fp, filename)
+  File "/home/ezh/.conda/envs/clam_latest/lib/python3.10/site-packages/PIL/ImageFile.py", line 147, in __init__
+    self._open()
+  File "/home/ezh/.conda/envs/clam_latest/lib/python3.10/site-packages/PIL/PngImagePlugin.py", line 776, in _open
+    s = self.png.call(cid, pos, length)
+  File "/home/ezh/.conda/envs/clam_latest/lib/python3.10/site-packages/PIL/PngImagePlugin.py", line 201, in call
+    return getattr(self, f"chunk_{cid.decode('ascii')}")(pos, length)
+  File "/home/ezh/.conda/envs/clam_latest/lib/python3.10/site-packages/PIL/PngImagePlugin.py", line 437, in chunk_iCCP
+    icc_profile = _safe_zlib_decompress(s[i + 2 :])
+  File "/home/ezh/.conda/envs/clam_latest/lib/python3.10/site-packages/PIL/PngImagePlugin.py", line 146, in _safe_zlib_decompress
+    raise ValueError(msg)
+ValueError: Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+
+2025-05-07 23:59:18,711 - INFO - ✅ Saved 6565 embeddings to virchow_features/TCGA-F5-6863.h5
+2025-05-08 00:00:22,805 - INFO - ✅ Saved 4720 embeddings to virchow_features/TCGA-F5-6864.h5
+2025-05-08 00:02:47,311 - INFO - ✅ Saved 10875 embeddings to virchow_features/TCGA-G4-6293.h5
+2025-05-08 00:04:52,492 - INFO - ✅ Saved 9315 embeddings to virchow_features/TCGA-G4-6294.h5
+2025-05-08 00:07:02,456 - INFO - ✅ Saved 9676 embeddings to virchow_features/TCGA-G4-6295.h5
+2025-05-08 00:09:44,106 - INFO - ✅ Saved 11970 embeddings to virchow_features/TCGA-G4-6297.h5
+2025-05-08 00:12:21,592 - INFO - ✅ Saved 11780 embeddings to virchow_features/TCGA-G4-6298.h5
+2025-05-08 00:14:51,302 - INFO - ✅ Saved 11223 embeddings to virchow_features/TCGA-G4-6299.h5
+2025-05-08 00:16:44,146 - INFO - ✅ Saved 8393 embeddings to virchow_features/TCGA-G4-6302.h5
+2025-05-08 00:18:49,929 - INFO - ✅ Saved 9396 embeddings to virchow_features/TCGA-G4-6303.h5
