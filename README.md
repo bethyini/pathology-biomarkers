@@ -7,11 +7,26 @@ This repository provides a modular pipeline for processing H&E-stained whole-sli
 ## Key Features
 
 - Patch extraction and filtering from SVS files using OpenSlide and custom tiling logic
-- Feature extraction using pretrained foundation models such as UNI2-h and BiomedCLIP
+- Feature extraction using pretrained foundation models such as UNI2-h and Virchow2
 - Slide-level aggregation using attention-based multiple instance learning (CLAM)
 - Interpretation via heatmaps derived from attention scores
-- Tools for label matching with clinical and genomic data (e.g., from GDC and cBioPortal)
+- Tools for downloading data and label matching with clinical and genomic data (from GDC and cBioPortal)
 - Modular notebook-based data processing and experiment setup
 
 ## Repository Structure
+pathology-biomarkers/
+├── model_scripts/ # Model training and inference code (e.g., CLAM, baseline classifiers)
+├── data_processing/ # Jupyter notebooks for preprocessing WSIs and labels
+├── heatmap_processing/ # Scripts for visualizing attention heatmaps and regions of interest
+├── datasets/ # CSV files for slide-label mappings, biomarker status
+├── UNI_outputs/ # (optional) Extracted patch-level features using pretrained encoders
+├── virchow_outputs/ # (optional) Downstream experiment outputs
+├── training_logs/ # Training metrics and experiment logs
+├── README.md
 
+## Biomarkers Supported
+- MMR/MSI status
+- HER2/ERBB2 amplification
+- BRAF mutation
+- KRAS mutation
+- Lymphovascular invasion
