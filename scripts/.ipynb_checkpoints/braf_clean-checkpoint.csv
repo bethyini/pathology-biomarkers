@@ -1,0 +1,223 @@
+Sample_ID,CNA,MUTATIONS,MRNA,PROTEIN,STRUCTURAL_VARIANT,BRAF
+TCGA-A6-2672,,Missense Mutation (putative driver),,,,1
+TCGA-AA-A00D,,Missense Mutation (putative driver),,,,1
+TCGA-AA-A00J,,Missense Mutation (putative driver),,,,1
+TCGA-AA-A01D,,Missense Mutation (putative driver),,,,1
+TCGA-AA-A01P,,Missense Mutation (putative driver),,,,1
+TCGA-AA-A022,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3516,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3525,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3543,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3664,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3684,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3715,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3821,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3833,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3877,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3947,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3949,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3966,,Missense Mutation (putative driver),,,,1
+TCGA-AG-A002,,Missense Mutation (putative driver),,,,1
+TCGA-AG-3578,,Missense Mutation (putative driver),,,,1
+TCGA-AA-3542,,Missense Mutation (putative passenger),,,,1
+TCGA-A6-2674,,no mutation,,,,0
+TCGA-A6-2677,,no mutation,,,,0
+TCGA-A6-2678,,no mutation,,,,0
+TCGA-A6-2683,,no mutation,,,,0
+TCGA-A6-3807,,no mutation,,,,0
+TCGA-A6-3808,,no mutation,,,,0
+TCGA-A6-3810,,no mutation,,,,0
+TCGA-AA-A00A,,no mutation,,,,0
+TCGA-AA-A00E,,no mutation,,,,0
+TCGA-AA-A00F,,no mutation,,,,0
+TCGA-AA-A00K,,no mutation,,,,0
+TCGA-AA-A00L,,no mutation,,,,0
+TCGA-AA-A00N,,no mutation,,,,0
+TCGA-AA-A00O,,no mutation,,,,0
+TCGA-AA-A00Q,,no mutation,,,,0
+TCGA-AA-A00R,,no mutation,,,,0
+TCGA-AA-A00U,,no mutation,,,,0
+TCGA-AA-A00W,,no mutation,,,,0
+TCGA-AA-A00Z,,no mutation,,,,0
+TCGA-AA-A01F,,no mutation,,,,0
+TCGA-AA-A01G,,no mutation,,,,0
+TCGA-AA-A01I,,no mutation,,,,0
+TCGA-AA-A01K,,no mutation,,,,0
+TCGA-AA-A01Q,,no mutation,,,,0
+TCGA-AA-A01R,,no mutation,,,,0
+TCGA-AA-A01S,,no mutation,,,,0
+TCGA-AA-A01T,,no mutation,,,,0
+TCGA-AA-A01V,,no mutation,,,,0
+TCGA-AA-A01X,,no mutation,,,,0
+TCGA-AA-A01Z,,no mutation,,,,0
+TCGA-AA-A02F,,no mutation,,,,0
+TCGA-AA-A02H,,no mutation,,,,0
+TCGA-AA-A02J,,no mutation,,,,0
+TCGA-AA-A02O,,no mutation,,,,0
+TCGA-AA-A02W,,no mutation,,,,0
+TCGA-AA-A02Y,,no mutation,,,,0
+TCGA-AA-A03F,,no mutation,,,,0
+TCGA-AA-A03J,,no mutation,,,,0
+TCGA-AA-A004,,no mutation,,,,0
+TCGA-AA-A010,,no mutation,,,,0
+TCGA-AA-A017,,no mutation,,,,0
+TCGA-AA-A024,,no mutation,,,,0
+TCGA-AA-A029,,no mutation,,,,0
+TCGA-AA-3514,,no mutation,,,,0
+TCGA-AA-3517,,no mutation,,,,0
+TCGA-AA-3518,,no mutation,,,,0
+TCGA-AA-3519,,no mutation,,,,0
+TCGA-AA-3520,,no mutation,,,,0
+TCGA-AA-3521,,no mutation,,,,0
+TCGA-AA-3522,,no mutation,,,,0
+TCGA-AA-3524,,no mutation,,,,0
+TCGA-AA-3526,,no mutation,,,,0
+TCGA-AA-3527,,no mutation,,,,0
+TCGA-AA-3529,,no mutation,,,,0
+TCGA-AA-3530,,no mutation,,,,0
+TCGA-AA-3531,,no mutation,,,,0
+TCGA-AA-3532,,no mutation,,,,0
+TCGA-AA-3534,,no mutation,,,,0
+TCGA-AA-3538,,no mutation,,,,0
+TCGA-AA-3544,,no mutation,,,,0
+TCGA-AA-3548,,no mutation,,,,0
+TCGA-AA-3549,,no mutation,,,,0
+TCGA-AA-3552,,no mutation,,,,0
+TCGA-AA-3553,,no mutation,,,,0
+TCGA-AA-3554,,no mutation,,,,0
+TCGA-AA-3555,,no mutation,,,,0
+TCGA-AA-3556,,no mutation,,,,0
+TCGA-AA-3558,,no mutation,,,,0
+TCGA-AA-3560,,no mutation,,,,0
+TCGA-AA-3561,,no mutation,,,,0
+TCGA-AA-3562,,no mutation,,,,0
+TCGA-AA-3666,,no mutation,,,,0
+TCGA-AA-3667,,no mutation,,,,0
+TCGA-AA-3672,,no mutation,,,,0
+TCGA-AA-3673,,no mutation,,,,0
+TCGA-AA-3678,,no mutation,,,,0
+TCGA-AA-3679,,no mutation,,,,0
+TCGA-AA-3680,,no mutation,,,,0
+TCGA-AA-3681,,no mutation,,,,0
+TCGA-AA-3685,,no mutation,,,,0
+TCGA-AA-3688,,no mutation,,,,0
+TCGA-AA-3692,,no mutation,,,,0
+TCGA-AA-3693,,no mutation,,,,0
+TCGA-AA-3695,,no mutation,,,,0
+TCGA-AA-3696,,no mutation,,,,0
+TCGA-AA-3710,,no mutation,,,,0
+TCGA-AA-3811,,no mutation,,,,0
+TCGA-AA-3812,,no mutation,,,,0
+TCGA-AA-3814,,no mutation,,,,0
+TCGA-AA-3818,,no mutation,,,,0
+TCGA-AA-3819,,no mutation,,,,0
+TCGA-AA-3831,,no mutation,,,,0
+TCGA-AA-3837,,no mutation,,,,0
+TCGA-AA-3842,,no mutation,,,,0
+TCGA-AA-3844,,no mutation,,,,0
+TCGA-AA-3845,,no mutation,,,,0
+TCGA-AA-3846,,no mutation,,,,0
+TCGA-AA-3848,,no mutation,,,,0
+TCGA-AA-3850,,no mutation,,,,0
+TCGA-AA-3851,,no mutation,,,,0
+TCGA-AA-3852,,no mutation,,,,0
+TCGA-AA-3854,,no mutation,,,,0
+TCGA-AA-3855,,no mutation,,,,0
+TCGA-AA-3856,,no mutation,,,,0
+TCGA-AA-3858,,no mutation,,,,0
+TCGA-AA-3860,,no mutation,,,,0
+TCGA-AA-3864,,no mutation,,,,0
+TCGA-AA-3866,,no mutation,,,,0
+TCGA-AA-3867,,no mutation,,,,0
+TCGA-AA-3869,,no mutation,,,,0
+TCGA-AA-3870,,no mutation,,,,0
+TCGA-AA-3872,,no mutation,,,,0
+TCGA-AA-3875,,no mutation,,,,0
+TCGA-AA-3930,,no mutation,,,,0
+TCGA-AA-3939,,no mutation,,,,0
+TCGA-AA-3941,,no mutation,,,,0
+TCGA-AA-3952,,no mutation,,,,0
+TCGA-AA-3955,,no mutation,,,,0
+TCGA-AA-3956,,no mutation,,,,0
+TCGA-AA-3971,,no mutation,,,,0
+TCGA-AA-3972,,no mutation,,,,0
+TCGA-AA-3973,,no mutation,,,,0
+TCGA-AA-3975,,no mutation,,,,0
+TCGA-AA-3976,,no mutation,,,,0
+TCGA-AA-3977,,no mutation,,,,0
+TCGA-AA-3979,,no mutation,,,,0
+TCGA-AA-3980,,no mutation,,,,0
+TCGA-AA-3982,,no mutation,,,,0
+TCGA-AA-3984,,no mutation,,,,0
+TCGA-AA-3986,,no mutation,,,,0
+TCGA-AA-3989,,no mutation,,,,0
+TCGA-AA-3994,,no mutation,,,,0
+TCGA-AF-2689,,no mutation,,,,0
+TCGA-AF-2691,,no mutation,,,,0
+TCGA-AF-2692,,no mutation,,,,0
+TCGA-AF-3400,,no mutation,,,,0
+TCGA-AF-3913,,no mutation,,,,0
+TCGA-AG-A00C,,no mutation,,,,0
+TCGA-AG-A00H,,no mutation,,,,0
+TCGA-AG-A00Y,,no mutation,,,,0
+TCGA-AG-A01L,,no mutation,,,,0
+TCGA-AG-A01W,,no mutation,,,,0
+TCGA-AG-A01Y,,no mutation,,,,0
+TCGA-AG-A02G,,no mutation,,,,0
+TCGA-AG-A02N,,no mutation,,,,0
+TCGA-AG-A02X,,no mutation,,,,0
+TCGA-AG-A008,,no mutation,,,,0
+TCGA-AG-A011,,no mutation,,,,0
+TCGA-AG-A014,,no mutation,,,,0
+TCGA-AG-A015,,no mutation,,,,0
+TCGA-AG-A016,,no mutation,,,,0
+TCGA-AG-A020,,no mutation,,,,0
+TCGA-AG-A025,,no mutation,,,,0
+TCGA-AG-A026,,no mutation,,,,0
+TCGA-AG-A032,,no mutation,,,,0
+TCGA-AG-A036,,no mutation,,,,0
+TCGA-AG-3574,,no mutation,,,,0
+TCGA-AG-3575,,no mutation,,,,0
+TCGA-AG-3580,,no mutation,,,,0
+TCGA-AG-3581,,no mutation,,,,0
+TCGA-AG-3582,,no mutation,,,,0
+TCGA-AG-3583,,no mutation,,,,0
+TCGA-AG-3584,,no mutation,,,,0
+TCGA-AG-3586,,no mutation,,,,0
+TCGA-AG-3587,,no mutation,,,,0
+TCGA-AG-3593,,no mutation,,,,0
+TCGA-AG-3594,,no mutation,,,,0
+TCGA-AG-3598,,no mutation,,,,0
+TCGA-AG-3599,,no mutation,,,,0
+TCGA-AG-3600,,no mutation,,,,0
+TCGA-AG-3601,,no mutation,,,,0
+TCGA-AG-3602,,no mutation,,,,0
+TCGA-AG-3605,,no mutation,,,,0
+TCGA-AG-3608,,no mutation,,,,0
+TCGA-AG-3609,,no mutation,,,,0
+TCGA-AG-3611,,no mutation,,,,0
+TCGA-AG-3612,,no mutation,,,,0
+TCGA-AG-3726,,no mutation,,,,0
+TCGA-AG-3727,,no mutation,,,,0
+TCGA-AG-3878,,no mutation,,,,0
+TCGA-AG-3881,,no mutation,,,,0
+TCGA-AG-3882,,no mutation,,,,0
+TCGA-AG-3883,,no mutation,,,,0
+TCGA-AG-3887,,no mutation,,,,0
+TCGA-AG-3890,,no mutation,,,,0
+TCGA-AG-3892,,no mutation,,,,0
+TCGA-AG-3893,,no mutation,,,,0
+TCGA-AG-3894,,no mutation,,,,0
+TCGA-AG-3896,,no mutation,,,,0
+TCGA-AG-3898,,no mutation,,,,0
+TCGA-AG-3901,,no mutation,,,,0
+TCGA-AG-3902,,no mutation,,,,0
+TCGA-AG-3909,,no mutation,,,,0
+TCGA-AG-3999,,no mutation,,,,0
+TCGA-AG-4001,,no mutation,,,,0
+TCGA-AG-4005,,no mutation,,,,0
+TCGA-AG-4007,,no mutation,,,,0
+TCGA-AG-4008,,no mutation,,,,0
+TCGA-AG-4015,,no mutation,,,,0
+TCGA-AY-4070,,no mutation,,,,0
+TCGA-AY-4071,,no mutation,,,,0

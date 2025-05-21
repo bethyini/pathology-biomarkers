@@ -1,0 +1,161 @@
+2025-05-07 13:34:50,492 - INFO - Loading pretrained weights from Hugging Face hub (paige-ai/Virchow2)
+2025-05-07 13:34:50,541 - INFO - [paige-ai/Virchow2] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-05-07 13:35:54,542 - INFO - Loading pretrained weights from Hugging Face hub (paige-ai/Virchow2)
+2025-05-07 13:35:54,589 - INFO - [paige-ai/Virchow2] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-05-07 13:35:55,187 - INFO - ❌ Failed to process .ipynb_checkpoints: torch.cat(): expected a non-empty list of Tensors
+2025-05-07 13:35:55,257 - INFO - ✅ Skipping TCGA-5M-AAT4, already exists.
+2025-05-07 13:35:55,257 - INFO - ✅ Skipping TCGA-5M-AAT5, already exists.
+2025-05-07 13:35:55,257 - INFO - ✅ Skipping TCGA-5M-AAT6, already exists.
+2025-05-07 13:35:55,257 - INFO - ✅ Skipping TCGA-5M-AATE, already exists.
+2025-05-07 13:35:55,257 - INFO - ✅ Skipping TCGA-A6-2671, already exists.
+2025-05-07 13:35:55,258 - INFO - ✅ Skipping TCGA-A6-2672, already exists.
+2025-05-07 13:35:55,258 - INFO - ✅ Skipping TCGA-A6-2674, already exists.
+2025-05-07 13:35:55,258 - INFO - ✅ Skipping TCGA-A6-2675, already exists.
+2025-05-07 13:35:55,258 - INFO - ✅ Skipping TCGA-A6-2676, already exists.
+2025-05-07 13:35:55,259 - INFO - ✅ Skipping TCGA-A6-2677, already exists.
+2025-05-07 13:35:55,259 - INFO - ✅ Skipping TCGA-A6-2678, already exists.
+2025-05-07 13:35:55,259 - INFO - ✅ Skipping TCGA-A6-2679, already exists.
+2025-05-07 13:35:55,259 - INFO - ✅ Skipping TCGA-A6-2680, already exists.
+2025-05-07 13:35:55,259 - INFO - ✅ Skipping TCGA-A6-2681, already exists.
+2025-05-07 13:35:55,259 - INFO - ✅ Skipping TCGA-A6-2682, already exists.
+2025-05-07 13:35:55,259 - INFO - ✅ Skipping TCGA-A6-2683, already exists.
+2025-05-07 13:35:55,260 - INFO - ✅ Skipping TCGA-A6-2684, already exists.
+2025-05-07 13:35:55,260 - INFO - ✅ Skipping TCGA-A6-2685, already exists.
+2025-05-07 13:35:55,260 - INFO - ✅ Skipping TCGA-A6-2686, already exists.
+2025-05-07 13:35:55,260 - INFO - ✅ Skipping TCGA-A6-3807, already exists.
+2025-05-07 13:35:55,260 - INFO - ✅ Skipping TCGA-A6-3808, already exists.
+2025-05-07 13:35:55,260 - INFO - ✅ Skipping TCGA-A6-3809, already exists.
+2025-05-07 13:35:55,260 - INFO - ✅ Skipping TCGA-A6-3810, already exists.
+2025-05-07 13:35:55,260 - INFO - ✅ Skipping TCGA-A6-4105, already exists.
+2025-05-07 13:35:55,261 - INFO - ✅ Skipping TCGA-A6-4107, already exists.
+2025-05-07 13:35:55,261 - INFO - ✅ Skipping TCGA-A6-5656, already exists.
+2025-05-07 13:35:55,261 - INFO - ✅ Skipping TCGA-A6-5657, already exists.
+2025-05-07 13:35:55,261 - INFO - ✅ Skipping TCGA-A6-5659, already exists.
+2025-05-07 13:35:55,261 - INFO - ✅ Skipping TCGA-A6-5660, already exists.
+2025-05-07 13:35:55,261 - INFO - ✅ Skipping TCGA-A6-5661, already exists.
+2025-05-07 13:35:55,261 - INFO - ✅ Skipping TCGA-A6-5662, already exists.
+2025-05-07 13:35:55,262 - INFO - ✅ Skipping TCGA-A6-5664, already exists.
+2025-05-07 13:35:55,262 - INFO - ✅ Skipping TCGA-A6-5665, already exists.
+2025-05-07 13:35:55,262 - INFO - ✅ Skipping TCGA-A6-5666, already exists.
+2025-05-07 13:35:55,262 - INFO - ✅ Skipping TCGA-A6-5667, already exists.
+2025-05-07 13:35:55,262 - INFO - ✅ Skipping TCGA-A6-6137, already exists.
+2025-05-07 13:35:55,262 - INFO - ✅ Skipping TCGA-A6-6138, already exists.
+2025-05-07 13:35:55,262 - INFO - ✅ Skipping TCGA-A6-6140, already exists.
+2025-05-07 13:35:55,262 - INFO - ✅ Skipping TCGA-A6-6141, already exists.
+2025-05-07 13:35:55,263 - INFO - ✅ Skipping TCGA-A6-6142, already exists.
+2025-05-07 13:35:55,263 - INFO - ✅ Skipping TCGA-A6-6648, already exists.
+2025-05-07 13:35:55,263 - INFO - ✅ Skipping TCGA-A6-6649, already exists.
+2025-05-07 13:35:55,263 - INFO - ✅ Skipping TCGA-A6-6650, already exists.
+2025-05-07 13:35:55,263 - INFO - ✅ Skipping TCGA-A6-6651, already exists.
+2025-05-07 13:35:55,263 - INFO - ✅ Skipping TCGA-A6-6652, already exists.
+2025-05-07 13:35:55,263 - INFO - ✅ Skipping TCGA-A6-6653, already exists.
+2025-05-07 13:35:55,264 - INFO - ✅ Skipping TCGA-A6-6654, already exists.
+2025-05-07 13:35:55,264 - INFO - ✅ Skipping TCGA-A6-A565, already exists.
+2025-05-07 13:35:55,264 - INFO - ✅ Skipping TCGA-A6-A566, already exists.
+2025-05-07 13:35:55,264 - INFO - ✅ Skipping TCGA-A6-A567, already exists.
+2025-05-07 13:35:55,264 - INFO - ✅ Skipping TCGA-A6-A56B, already exists.
+2025-05-07 13:35:55,264 - INFO - ✅ Skipping TCGA-A6-A5ZU, already exists.
+2025-05-07 13:35:55,264 - INFO - ✅ Skipping TCGA-AA-3488, already exists.
+2025-05-07 13:35:55,265 - INFO - ✅ Skipping TCGA-AA-3489, already exists.
+2025-05-07 13:35:55,265 - INFO - ✅ Skipping TCGA-AA-3492, already exists.
+2025-05-07 13:35:55,265 - INFO - ✅ Skipping TCGA-AA-3494, already exists.
+2025-05-07 13:35:55,265 - INFO - ✅ Skipping TCGA-AA-3495, already exists.
+2025-05-07 13:35:55,265 - INFO - ✅ Skipping TCGA-AA-3496, already exists.
+2025-05-07 13:35:55,265 - INFO - ✅ Skipping TCGA-AA-3506, already exists.
+2025-05-07 13:35:55,265 - INFO - ✅ Skipping TCGA-AA-3509, already exists.
+2025-05-07 13:35:55,265 - INFO - ✅ Skipping TCGA-AA-3510, already exists.
+2025-05-07 13:35:55,266 - INFO - ✅ Skipping TCGA-AA-3511, already exists.
+2025-05-07 13:35:55,266 - INFO - ✅ Skipping TCGA-AA-3514, already exists.
+2025-05-07 13:35:55,266 - INFO - ✅ Skipping TCGA-AA-3516, already exists.
+2025-05-07 13:35:55,266 - INFO - ✅ Skipping TCGA-AA-3517, already exists.
+2025-05-07 13:35:55,266 - INFO - ✅ Skipping TCGA-AA-3518, already exists.
+2025-05-07 13:35:55,266 - INFO - ✅ Skipping TCGA-AA-3519, already exists.
+2025-05-07 13:35:55,266 - INFO - ✅ Skipping TCGA-AA-3520, already exists.
+2025-05-07 13:35:55,267 - INFO - ✅ Skipping TCGA-AA-3521, already exists.
+2025-05-07 13:35:55,267 - INFO - ✅ Skipping TCGA-AA-3522, already exists.
+2025-05-07 13:35:55,267 - INFO - ✅ Skipping TCGA-AA-3524, already exists.
+2025-05-07 13:35:55,267 - INFO - ✅ Skipping TCGA-AA-3525, already exists.
+2025-05-07 13:35:55,267 - INFO - ✅ Skipping TCGA-AA-3526, already exists.
+2025-05-07 13:35:55,267 - INFO - ✅ Skipping TCGA-AA-3527, already exists.
+2025-05-07 13:35:55,267 - INFO - ✅ Skipping TCGA-AA-3529, already exists.
+2025-05-07 13:35:55,267 - INFO - ✅ Skipping TCGA-AA-3530, already exists.
+2025-05-07 13:35:55,268 - INFO - ✅ Skipping TCGA-AA-3531, already exists.
+2025-05-07 13:35:55,268 - INFO - ✅ Skipping TCGA-AA-3532, already exists.
+2025-05-07 13:35:55,268 - INFO - ✅ Skipping TCGA-AA-3534, already exists.
+2025-05-07 13:35:55,268 - INFO - ✅ Skipping TCGA-AA-3538, already exists.
+2025-05-07 13:35:55,268 - INFO - ✅ Skipping TCGA-AA-3542, already exists.
+2025-05-07 13:35:55,268 - INFO - ✅ Skipping TCGA-AA-3543, already exists.
+2025-05-07 13:35:55,268 - INFO - ✅ Skipping TCGA-AA-3544, already exists.
+2025-05-07 13:35:55,269 - INFO - ✅ Skipping TCGA-AA-3548, already exists.
+2025-05-07 13:35:55,269 - INFO - ✅ Skipping TCGA-AA-3549, already exists.
+2025-05-07 13:35:55,269 - INFO - ✅ Skipping TCGA-AA-3552, already exists.
+2025-05-07 13:35:55,269 - INFO - ✅ Skipping TCGA-AA-3553, already exists.
+2025-05-07 13:35:55,269 - INFO - ✅ Skipping TCGA-AA-3554, already exists.
+2025-05-07 13:35:55,269 - INFO - ✅ Skipping TCGA-AA-3555, already exists.
+2025-05-07 13:35:55,269 - INFO - ✅ Skipping TCGA-AA-3556, already exists.
+2025-05-07 13:35:55,269 - INFO - ✅ Skipping TCGA-AA-3558, already exists.
+2025-05-07 13:35:55,270 - INFO - ✅ Skipping TCGA-AA-3560, already exists.
+2025-05-07 13:35:55,270 - INFO - ✅ Skipping TCGA-AA-3561, already exists.
+2025-05-07 13:35:55,270 - INFO - ✅ Skipping TCGA-AA-3562, already exists.
+2025-05-07 13:35:55,270 - INFO - ✅ Skipping TCGA-AA-3655, already exists.
+2025-05-07 13:35:55,270 - INFO - ✅ Skipping TCGA-AA-3660, already exists.
+2025-05-07 13:35:55,270 - INFO - ✅ Skipping TCGA-AA-3662, already exists.
+2025-05-07 13:35:55,270 - INFO - ✅ Skipping TCGA-AA-3663, already exists.
+2025-05-07 13:35:55,271 - INFO - ✅ Skipping TCGA-AA-3664, already exists.
+2025-05-07 13:35:55,271 - INFO - ✅ Skipping TCGA-AA-3666, already exists.
+2025-05-07 13:35:55,271 - INFO - ✅ Skipping TCGA-AA-3667, already exists.
+2025-05-07 13:35:55,271 - INFO - ✅ Skipping TCGA-AA-3672, already exists.
+2025-05-07 13:35:55,271 - INFO - ✅ Skipping TCGA-AA-3673, already exists.
+2025-05-07 13:35:55,271 - INFO - ✅ Skipping TCGA-AA-3675, already exists.
+2025-05-07 13:35:55,271 - INFO - ✅ Skipping TCGA-AA-3678, already exists.
+2025-05-07 13:35:55,271 - INFO - ✅ Skipping TCGA-AA-3679, already exists.
+2025-05-07 13:35:55,272 - INFO - ✅ Skipping TCGA-AA-3680, already exists.
+2025-05-07 13:35:55,272 - INFO - ✅ Skipping TCGA-AA-3681, already exists.
+2025-05-07 13:35:55,272 - INFO - ✅ Skipping TCGA-AA-3684, already exists.
+2025-05-07 13:35:55,272 - INFO - ✅ Skipping TCGA-AA-3685, already exists.
+2025-05-07 13:35:55,272 - INFO - ✅ Skipping TCGA-AA-3688, already exists.
+2025-05-07 13:35:55,272 - INFO - ✅ Skipping TCGA-AA-3692, already exists.
+2025-05-07 13:35:55,272 - INFO - ✅ Skipping TCGA-AA-3693, already exists.
+2025-05-07 13:35:55,273 - INFO - ✅ Skipping TCGA-AA-3695, already exists.
+2025-05-07 13:35:55,273 - INFO - ✅ Skipping TCGA-AA-3696, already exists.
+2025-05-07 13:35:55,273 - INFO - ✅ Skipping TCGA-AA-3697, already exists.
+2025-05-07 13:35:55,273 - INFO - ✅ Skipping TCGA-AA-3710, already exists.
+2025-05-07 13:35:55,273 - INFO - ✅ Skipping TCGA-AA-3712, already exists.
+2025-05-07 13:35:55,273 - INFO - ✅ Skipping TCGA-AA-3713, already exists.
+2025-05-07 13:35:55,273 - INFO - ✅ Skipping TCGA-AA-3715, already exists.
+2025-05-07 13:35:55,273 - INFO - ✅ Skipping TCGA-AA-3811, already exists.
+2025-05-07 13:35:55,274 - INFO - ✅ Skipping TCGA-AA-3812, already exists.
+2025-05-07 13:35:55,274 - INFO - ✅ Skipping TCGA-AA-3814, already exists.
+2025-05-07 13:35:55,274 - INFO - ✅ Skipping TCGA-G4-6317, already exists.
+2025-05-07 13:35:55,274 - INFO - ✅ Skipping TCGA-G4-6320, already exists.
+2025-05-07 13:35:55,274 - INFO - ✅ Skipping TCGA-G4-6321, already exists.
+2025-05-07 13:35:55,274 - INFO - ✅ Skipping TCGA-G4-6322, already exists.
+2025-05-07 13:35:55,274 - INFO - ✅ Skipping TCGA-G4-6323, already exists.
+2025-05-07 13:35:55,275 - INFO - ✅ Skipping TCGA-G4-6586, already exists.
+2025-05-07 13:35:55,275 - INFO - ✅ Skipping TCGA-G4-6588, already exists.
+2025-05-07 13:35:55,275 - INFO - ✅ Skipping TCGA-G4-6625, already exists.
+2025-05-07 13:35:55,275 - INFO - ✅ Skipping TCGA-G4-6626, already exists.
+2025-05-07 13:35:55,275 - INFO - ✅ Skipping TCGA-G4-6627, already exists.
+2025-05-07 13:35:55,275 - INFO - ✅ Skipping TCGA-G4-6628, already exists.
+2025-05-07 13:35:55,275 - INFO - ✅ Skipping TCGA-G5-6233, already exists.
+2025-05-07 13:35:55,276 - INFO - ✅ Skipping TCGA-G5-6235, already exists.
+2025-05-07 13:35:55,276 - INFO - ✅ Skipping TCGA-G5-6572, already exists.
+2025-05-07 13:35:55,276 - INFO - ✅ Skipping TCGA-G5-6641, already exists.
+2025-05-07 13:35:55,276 - INFO - ✅ Skipping TCGA-NH-A50T, already exists.
+2025-05-07 13:35:55,276 - INFO - ✅ Skipping TCGA-NH-A50U, already exists.
+2025-05-07 13:35:55,276 - INFO - ✅ Skipping TCGA-NH-A50V, already exists.
+2025-05-07 13:35:55,276 - INFO - ✅ Skipping TCGA-NH-A5IV, already exists.
+2025-05-07 13:35:55,276 - INFO - ✅ Skipping TCGA-NH-A6GA, already exists.
+2025-05-07 13:35:55,277 - INFO - ✅ Skipping TCGA-NH-A6GB, already exists.
+2025-05-07 13:35:55,277 - INFO - ✅ Skipping TCGA-NH-A6GC, already exists.
+2025-05-07 13:44:04,335 - INFO - ✅ Saved 10944 embeddings to virchow_features/TCGA-NH-A8F7.h5
+2025-05-07 13:52:13,181 - INFO - ✅ Saved 11009 embeddings to virchow_features/TCGA-NH-A8F8.h5
+2025-05-07 14:03:35,705 - INFO - ✅ Saved 15370 embeddings to virchow_features/TCGA-QG-A5YV.h5
+2025-05-07 14:14:24,248 - INFO - ✅ Saved 14596 embeddings to virchow_features/TCGA-QG-A5YW.h5
+2025-05-07 14:22:24,025 - INFO - ✅ Saved 10836 embeddings to virchow_features/TCGA-QG-A5YX.h5
+2025-05-07 14:31:50,450 - INFO - ✅ Saved 12750 embeddings to virchow_features/TCGA-QG-A5Z1.h5
+2025-05-07 14:40:37,994 - INFO - ✅ Saved 11858 embeddings to virchow_features/TCGA-QG-A5Z2.h5
+2025-05-07 14:48:20,754 - INFO - ✅ Saved 10395 embeddings to virchow_features/TCGA-QL-A97D.h5
+2025-05-07 14:56:29,639 - INFO - ✅ Saved 10947 embeddings to virchow_features/TCGA-SS-A7HO.h5
+2025-05-07 15:04:24,628 - INFO - ✅ Saved 10735 embeddings to virchow_features/TCGA-T9-A92H.h5
+2025-05-07 15:13:09,348 - INFO - ✅ Saved 11811 embeddings to virchow_features/TCGA-WS-AB45.h5
