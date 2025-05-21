@@ -13,17 +13,6 @@ This repository provides a modular pipeline for processing H&E-stained whole-sli
 - Tools for downloading data and label matching with clinical and genomic data (from GDC and cBioPortal)
 - Modular notebook-based data processing and experiment setup
 
-## Repository Structure
-pathology-biomarkers/
-├── model_scripts/ # Model training and inference code (e.g., CLAM, baseline classifiers)
-├── data_processing/ # Jupyter notebooks for preprocessing WSIs and labels
-├── heatmap_processing/ # Scripts for visualizing attention heatmaps and regions of interest
-├── datasets/ # CSV files for slide-label mappings, biomarker status
-├── UNI_outputs/ # (optional) Extracted patch-level features using pretrained encoders
-├── virchow_outputs/ # (optional) Downstream experiment outputs
-├── training_logs/ # Training metrics and experiment logs
-├── README.md
-
 ## Biomarkers Supported
 - MMR/MSI status
 - HER2/ERBB2 amplification
